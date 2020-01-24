@@ -5,7 +5,7 @@ image: images/haloBallCapture.jpg
 title: Halo Ball
 permalink: projects/haloball
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-04-29
 labels:
   - Game Dev
   - EZ Images
