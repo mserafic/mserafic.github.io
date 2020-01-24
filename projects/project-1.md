@@ -1,44 +1,22 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/haloBallCapture.jpg
+title: Halo Ball
+permalink: projects/haloball
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Game Dev
+  - EZ Images
+  - Java
+summary: My partner and I created a hockey-like game for our ICS 111 final project at UH Manoa.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+For our final project in ICS 111, the class was tasked to create a game with a partner that utilized some of the features of java and the EZ imageing program we learned about in the class. My partner, Terrence Nguyen, and I decided to take inspiration from a couple games we both enjoyed playing as children. The game's them is based on the shooter game, "Halo", but we based gameplay from a mini-game found in the game, "Pokemon Stadium 2". The mini-game was called, "Mr. Mime Ball" and had 4 players control a Mr. Mime and block balls from entering their goal, and reflecting it into the other player's goal.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+To keep things simple we made the game end after a single goal is made and the collision detection for the ball would only need to collide with the border of any image's border. To generate the background we utilized file reading and arrays to read a file containing letters in a pattern and spawn the corresponding images. I was in charge of creating the classes for character movement and movement of the ball. Although difficult for the players, 4 players could play simultaniously using 4 pairs of keys on the keyboard to move in the directions to cover their goal. The ball's movement was based on random numbers to send the ball in a random direction at first and then change them accordingly when colliding with any image, player or wall.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
+In this project I gained knowledge about game development and the many caveats that must be accounted for in the development process. I also learned about getting and using user input to properly control characters in simple games. This project helped solidify my understanding of the Java language and has helped me in projects following this.
 
 
