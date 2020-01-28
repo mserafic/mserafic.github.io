@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/haloBallCapture.jpg
+image: images/haloBallCapture.JPG
 title: Halo Ball
 permalink: projects/haloball
 # All dates must be YYYY-MM-DD format!
