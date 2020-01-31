@@ -12,7 +12,7 @@ labels:
   - Java
 summary: My partner and I created a hockey-like game for our ICS 111 final project at UH Manoa.
 ---
-<img class="ui medium right floated rounded image" src="/images/pongPing.jpg">
+<img class="ui medium right floated rounded image" src="/images/pongPing.JPG">
 
 For our final project in ICS 111, the class was tasked to create a game with a partner that utilized some of the features of java and the EZ imageing program we learned about in the class. My partner, Terrence Nguyen, and I decided to take inspiration from a couple games we both enjoyed playing as children. The game's them is based on the shooter game, "Halo", but we based gameplay from a mini-game found in the game, "Pokemon Stadium 2". The mini-game was called, "Mr. Mime Ball" and had 4 players control a Mr. Mime and block balls from entering their goal, and reflecting it into the other player's goal.
 
