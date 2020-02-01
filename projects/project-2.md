@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/sprayPaintCapture.JPG
+title: Spray Paint
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
@@ -11,15 +11,13 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A simple Java program to show user input and output
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/sprayPaintCapture.JPG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This a simple Java program I had developed for my intro computer science course to demonstrate some recently learned skills. In the program I had utilized the EZ imaging software that was given to us for the course to display visuals, and I was responsible for making a program that was able to get user input from both the keyboard and mouse and have some sort of output, for this program it was in the form of differing pictures.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Utilizing the EZ software it was easy to display the desired images, but what was challenging was finding the right functions to give me the desired output. For example, it was simple to have a single mouseclick equate to a single image output, but I wanted one click to equate to continuous images until the mouse was released.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In this project I learned not only how to properly gather user input and display output, but gave me a small taste of troubleshooting and finding answers to my coding challenges by searching for information on sites like Stack Overflow.
