@@ -7,10 +7,8 @@ permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Java
+  - EZ Image
 summary: A simple Java program to show user input and output
 ---
 
