@@ -9,11 +9,12 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">
+<img class="ui tiny right spaced image" src="../images/javascript.png">
 
 Going into college I had no experience programming, so despite how elementary the introductory course can be, I was still anxious. Getting through that class and the sub-sequent class in order to get a firm grasp of the Java language was difficult to me and seeing as there are so many nuances within the language, I thought learning other programming languages would be a daunting task. Then in the semester following that class I am to take a class for Javascript and another for both c and c++. If just Java was challenging, this is going to fun. To my surprise, that statement ended up not being sarcastic.
 
 In regards to Javascript, the class name is titled "Software Engineering" which made me think that it was going to be a complex language. I was delighted to find that in some regard, it's somewhat simpler than Java. For example, declaring variables is a very elementary task, but Javascript makes it even easier. To compare variable declaration in Java and Javascript;
+
 Java
 ```
 int num = 0;
