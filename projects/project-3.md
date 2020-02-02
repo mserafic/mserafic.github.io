@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cotton-square.png
 title: Surfer
-permalink: projects/cotton
+permalink: projects/surfer
 # All dates must be YYYY-MM-DD format!
 date: 2019-3-12
 labels:
