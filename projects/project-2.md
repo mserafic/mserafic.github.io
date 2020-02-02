@@ -9,10 +9,10 @@ date: 2019-02-11
 labels:
   - Java
   - EZ Image
-summary: A simple Java program to show user input and output
+summary: A simple Java program to show user input and output.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/sprayPaintCapture.JPG">
+<img class="ui medium right floated rounded image" src="/images/sprayPaintCapture.JPG">
 
 This a simple Java program I had developed for my intro computer science course to demonstrate some recently learned skills. In the program I had utilized the EZ imaging software that was given to us for the course to display visuals, and I was responsible for making a program that was able to get user input from both the keyboard and mouse and have some sort of output, for this program it was in the form of differing pictures.
 
