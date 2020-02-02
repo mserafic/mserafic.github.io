@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/surfGamePic.PNG
 title: Surfer
 permalink: projects/surfer
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A 2-d game I made for ICS111
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/surfGamePic.PNG">
 
 I made this surfing game in ICS 111 as a way to show my understanding of simple object orientation in Java. We had recently been taught about object orientated programming in Java and needed to demonstrate our understanding by making a game that utilized multiple classes, arrays, and loops. We were tasked with properly implementing these cohesively in a game where you control a character that must collet resources, while avoiding obstacles.
 
