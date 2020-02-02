@@ -5,11 +5,11 @@ image: images/cotton-square.png
 title: Surfer
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-3-12
 labels:
   - Java
   - EZ
-summary: A text adventure game I developed for ICS 313.
+summary: A 2-d game I made for ICS111
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
