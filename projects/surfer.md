@@ -5,7 +5,7 @@ image: images/surfGamePic.JPG
 title: Surfer
 permalink: projects/surfer
 # All dates must be YYYY-MM-DD format!
-date: 2019-3-12
+date: 2019-03-12
 labels:
   - Java
   - EZ
