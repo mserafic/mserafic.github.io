@@ -28,4 +28,4 @@ for(int i = 0; i < numberOfStorms; i++) {
 
 A simple loop and function call, but what took me a while to wrap my head around was the depth of the if statements parameters. When trying to make sense of what is really being done, it's hard to do so at a glance, but by going through and tracing the instances and functions, it becomes easy to understand.
 
-This program didn't only help solidify my understanding of simple object orientation in Java, but it more importantly taught me about the value and how to properly trace code. Though it is one of the first things taught, it is often overlooked for being simple, yet it is one of the most valuable tools in programming, as I learned with this experience
+This program didn't only help solidify my understanding of simple object orientation in Java, but it more importantly taught me about the value and how to properly trace code. Though it is one of the first things taught, it is often overlooked for being simple, yet it is one of the most valuable tools in programming, as I learned with this experience.
