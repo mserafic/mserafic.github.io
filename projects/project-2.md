@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sprayPaintCapture.JPG
 title: Spray Paint
-permalink: projects/vacay
+permalink: projects/spray-paint
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
