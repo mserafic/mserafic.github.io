@@ -5,7 +5,7 @@ image: images/sprayPaintCapture.JPG
 title: Spray Paint
 permalink: projects/spray-paint
 # All dates must be YYYY-MM-DD format!
-date: 2019-2-11
+date: 2019-02-11
 labels:
   - Java
   - EZ Image
