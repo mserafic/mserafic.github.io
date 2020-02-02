@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/haloBallCapture.JPG
 title: Halo Ball
-permalink: projects/haloball
+permalink: projects/halo-ball
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-29
 labels:
