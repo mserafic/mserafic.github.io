@@ -11,5 +11,7 @@ labels:
   -Semantic UI
 ---
 
+<img class="ui medium left floated image" src="../images/codeStyle.png">
+
 They say that beauty is subjective, so not everyone will have the same standard of what is considered beutiful. This is true, but I'd also
 say that beauty is objective, that some things are inherently pleasing to look at.
