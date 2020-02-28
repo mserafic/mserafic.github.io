@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: Professionals have standards
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-02-27
 labels:
-  - Software Engineering
-  - Javascript
-  - ESLint
+  - Web Development
+  - HTML
+  - Semantic UI
 ---
 
 <img class="ui medium left floated image" src="../images/codeStyle.png">
