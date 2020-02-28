@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Semantics of web development
+title: Professionals have standards
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-27
+date: 2020-02-13
 labels:
-  - Web Development
+  - Software Engineering
   - Javascript
-  - HTML
-  -Semantic UI
+  - ESLint
 ---
 
 <img class="ui medium left floated image" src="../images/codeStyle.png">
