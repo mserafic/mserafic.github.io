@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Professionals have standards
+title: Semantics of web development
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
