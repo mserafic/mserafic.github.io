@@ -9,7 +9,7 @@ labels:
   - COVID19
 ---
 
-<img class="ui medium left floated image" src="../images/codeStyle.png">
+<img class="ui medium left floated image" src="../images/covid19.jpg">
 
 In my software engineering course, we started to learn about the meteor development system. It apparently is a little slower on Windows devices, like the computer I use. My professor told the Windows users in the class to disable their Windows Defender firewall, as it interferes with meteor and makes run time much longer than it should be. I went ahead and disabled it, but was hesitant at first, for I don't have any other anti-virus installed on my machine. I don't go to any suspicious websites, however my classes require me to scour the internet for information resources and sites that seem friendly may contain hidden malware. I thought to myself, "It's okay. What are the odds me getting a virus?" a risk I should not underestimate, but I did and kept on with my studies. Around this time the Wuhan coronavirus had been spreading from China to parts of Europe, making it widespread enough to be dubbed the novel coronavirus, COVID-19. Seeing increasingly more countries become infected had me concerned about contracting it and I thought the same thing to myself, until I got on a plane.
 
